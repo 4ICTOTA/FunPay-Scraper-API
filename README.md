@@ -1,2 +1,2 @@
-# Autoscraper
-API for creating web page auto-scrapping models and using them.
+# Funpay scraper API
+API for scraping information about users and their lots on the FunPay website.
